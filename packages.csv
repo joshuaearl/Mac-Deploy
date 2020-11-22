@@ -1,0 +1,11 @@
+Name,Folder,Filename
+CCleaner,ccleaner,run.pkg
+Firefox,firefox,firefox.dmg
+IntelliJ Community Edition,intellij,installer.pkg
+Office 365,office,run.pkg
+Putty,putty,package.pkg
+Python 3.7,python37,installpy.pkg
+Sophos Antivirus,sophos,installer.pkg
+Sublime Text Editor,sublime,install.pkg
+VirtualBox,vbox,runme.pkg
+VLC Media Player,vlc,installer.dmg
